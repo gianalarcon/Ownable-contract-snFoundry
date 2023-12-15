@@ -1,3 +1,4 @@
+// This test were working with snFoundry version v0.7.0. You task is to enable this tests using snFoundry version v0.12.0 or v0.13.0
 use starknet::{ContractAddress, Into, TryInto, OptionTrait};
 use starknet::syscalls::deploy_syscall;
 use result::ResultTrait;
